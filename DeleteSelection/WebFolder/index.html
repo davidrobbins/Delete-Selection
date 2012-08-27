@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html><html>
+<head>
+<title>Main Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="generator" content="Wakanda GUIDesigner"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<meta name="wakanda-version" content="2.0 build 2.114493"/>
+		<meta name="wakanda-build" content="2.114493"/>
+		
+		<meta name="WAF.config.datasources" data-type="dataSource" data-source-type="dataClass" data-source="Company" data-lib="WAF" data-id="company" data-dataType="string" data-autoLoad="true" content="company"/>
+		
+		
+		<meta name="WAF.config.datasources" data-type="dataSource" data-source-type="dataClass" data-source="company.employees" data-lib="WAF" data-id="employees" data-dataType="string" data-autoLoad="false" content="employees"/>
+<meta name="WAF.config.loadJS" id="waf-script" content="scripts/index.js"/>
+		
+		
+		<meta name="WAF.config.loadCSS" id="waf-palette" content="/walib/WAF/widget/palette/css/widget-palette-default.css"/>
+		<meta name="WAF.config.loadCSS" id="waf-interface-css" content="styles/index.css"/>
+		<meta name="WAF.config.loadCSS" content="/application.css"/>
+		<meta name="WAF.config.loadCSS" content="styles/custom.css"/>
+		<meta name="WAF.config.loadCSS" id="waf-project-css" content="/application.css"/>
+</head>
+
+<body id="waf-body" data-viewport-width="device-width" data-viewport-minimum-scale="1.0" data-viewport-maximum-scale="1.0" data-viewport-initial-scale="1.0" data-type="document" data-theme="default" data-rpc-validation="false" data-rpc-namespace="rpc" data-rpc-activate="false" data-platform="desktop" data-lib="WAF" data-apple-meta-tags-status-bar="default" class="default" style="visibility:hidden;">
+			<div id="container1" data-type="container" data-lib="WAF" data-constraint-top="true" data-constraint-left="true" class="waf-widget waf-container default inherited    waf-container-level-0 waf-level-0 ">
+	 	<div id="richText3" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-autoWidth="false" class="waf-widget waf-richText default inherited       waf-richText-level-0 waf-level-0 ">Implementing Delete Selection in Wakanda</div>
+ 	</div>
+		<div id="container2" data-type="container" data-lib="WAF" data-constraint-top="true" data-constraint-left="true" class="waf-widget waf-container default inherited    waf-container-level-0 waf-level-0 ">
+	 	<div id="container3" data-type="container" data-lib="WAF" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-container default inherited    waf-container-level-1 waf-level-1 ">
+	 	 	<div id="richText5" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-autoWidth="false" class="waf-widget waf-richText default inherited    waf-richText-level-0 waf-level-0 ">This is the companion project for the technical note of the same name. You can select one or more Companies and click the Delete Selection button to remove them. </div>
+ 	 		<div id="richText6" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-autoWidth="true" class="waf-widget waf-richText default inherited   waf-richText-level-0 waf-level-0"></div>
+ 	 		<div id="richText7" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-autoWidth="false" class="waf-widget waf-richText default inherited    waf-richText-level-0 waf-level-0 ">To implement a Delete Selection function for our application we have written a collection method on the Company dataclass and made it public so we can call it when the Delete Selection button is clicked. We pass the selected rows to our server method. It removes any selected company that does not have employees and returns the updated company collection. The companies that could not be deleted are then highlighted. </div>
+ 	 	</div>
+ 		<div id="container4" data-type="container" data-lib="WAF" data-constraint-top="true" data-constraint-right="true" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-container default inherited    waf-container-level-1 waf-level-1 ">
+	 	 	<div id="richText1" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-autoWidth="false" class="waf-widget waf-richText default inherited                         waf-richText-level-0 waf-level-0 ">Company</div>
+ 	 		<div id="dataGrid1" data-type="dataGrid" data-selection-mode="multiple" data-readOnly="true" data-lib="WAF" data-label-position="top" data-label="" data-footer-text="item(s)" data-display-error="true" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-column="[{'sourceAttID':'ID','colID':'ID','width':'52','title':'ID'},{'sourceAttID':'name','colID':'name','width':'127','title':'Name'},{'sourceAttID':'city','colID':'city','width':'141','title':'City'},{'sourceAttID':'industry','colID':'industry','width':'81','title':'Industry'}]" data-binding="company" class="waf-widget waf-dataGrid default inherited                            waf-dataGrid-level-0 waf-level-0 "></div>
+ 	 		<div id="dataGrid2" data-type="dataGrid" data-selection-mode="single" data-readOnly="true" data-lib="WAF" data-label-position="top" data-label="" data-footer-text="item(s)" data-display-error="true" data-constraint-top="true" data-constraint-right="true" data-constraint-left="false" data-constraint-bottom="false" data-column="[{'sourceAttID':'ID','colID':'ID','width':'70','title':'ID'},{'sourceAttID':'firstName','colID':'firstName','width':'109','title':'First%20Name'},{'sourceAttID':'lastName','colID':'lastName','width':'150','title':'Last%20Name'}]" data-binding="employees" class="waf-widget waf-dataGrid default inherited                         waf-dataGrid-level-0 waf-level-0 "></div>
+ 	 		<div id="richText2" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-autoWidth="false" class="waf-widget waf-richText default inherited                            waf-richText-level-0 waf-level-0 ">Employees</div>
+ 	 		<button id="button4" data-type="button" data-text="Delete Selection" data-target="_blank" data-lib="WAF" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-action="simple" class="waf-widget waf-button default inherited                         waf-button-level-0 waf-level-0 "></button>
+ 	 		<div id="richText4" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-autoWidth="false" class="waf-widget waf-richText default inherited   waf-richText-level-0 waf-level-0"></div>
+ 	 		</div>
+ 		<div id="container5" data-type="container" data-lib="WAF" data-constraint-top="true" data-constraint-right="true" data-constraint-left="false" data-constraint-bottom="false" class="waf-widget waf-container default inherited    waf-container-level-1 waf-level-1 "></div>
+ 		<div id="image1" data-type="image" data-target="_blank" data-src="/images/Powered-by-Wakanda-S.png" data-lib="WAF" data-label-position="left" data-label="" data-fit="0" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-image default inherited             waf-image-level-0 waf-level-0 "></div>
+ 		<div id="container6" data-type="container" data-lib="WAF" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-container default inherited    waf-container-level-1 waf-level-1 "></div>
+ 	</div>
+		
+		<script type="text/javascript" src="/waLib/WAF/Loader.js"></script>
+	</body>
+</html>

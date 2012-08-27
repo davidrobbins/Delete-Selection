@@ -1,0 +1,504 @@
+2012-07-17 15:26:39 [com.wakanda-software.Test] INFO - Opening the solution
+2012-07-17 15:26:39 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2012-07-17 15:26:39 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 127 ms)
+2012-07-17 15:26:39 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the project
+2012-07-17 15:26:39 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the database
+2012-07-17 15:26:39 [com.wakanda-software.Test.DeleteSelection] INFO - Database opened (duration: 26 ms)
+2012-07-17 15:26:39 [com.wakanda-software.Test.DeleteSelection] INFO - Project opened (duration: 41 ms)
+2012-07-17 15:26:39 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2012-07-17 15:26:39 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the database
+2012-07-17 15:26:39 [com.wakanda-software.Test.ServerAdmin] INFO - Database opened (duration: 20 ms)
+2012-07-17 15:26:39 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 49 ms)
+2012-07-17 15:26:39 [com.wakanda-software.Test] INFO - Solution opened (duration: 247 ms)
+2012-07-17 15:26:39 [com.wakanda-software.Test] INFO - Starting the solution
+2012-07-17 15:26:39 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the project
+2012-07-17 15:26:39 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the HTTP server
+2012-07-17 15:26:39 [com.wakanda-software.Test.DeleteSelection] INFO - HTTP server started (duration: 27 ms)
+2012-07-17 15:26:39 [com.wakanda-software.Test.DeleteSelection] INFO - Project started (duration: 67 ms)
+2012-07-17 15:26:39 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2012-07-17 15:26:39 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2012-07-17 15:26:39 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-17 15:26:39 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 55 ms)
+2012-07-17 15:26:39 [com.wakanda-software.Test.DeleteSelection] INFO - Executing the bootstrap(s)
+2012-07-17 15:26:39 [com.wakanda-software.Test.DeleteSelection] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-07-17 15:26:39 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-17 15:26:39 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 45 ms)
+2012-07-17 15:26:39 [com.wakanda-software.Test] INFO - Solution started (duration: 177 ms)
+2012-07-17 15:26:49 [com.wakanda-software.Test] INFO - Stopping the solution
+2012-07-17 15:26:49 [com.wakanda-software.Test.DeleteSelection] INFO - Stopping the project
+2012-07-17 15:26:50 [com.wakanda-software.Test.DeleteSelection] INFO - Project stopped (duration: 1048 ms)
+2012-07-17 15:26:50 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2012-07-17 15:26:52 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-07-17 15:26:52 [com.wakanda-software.Test] INFO - Solution stopped (duration: 3097 ms)
+2012-07-17 15:26:52 [com.wakanda-software.Test] INFO - Closing the solution
+2012-07-17 15:26:52 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the project
+2012-07-17 15:26:52 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the database
+2012-07-17 15:26:53 [com.wakanda-software.Test.DeleteSelection] INFO - Database closed (duration: 406 ms)
+2012-07-17 15:26:53 [com.wakanda-software.Test.DeleteSelection] INFO - Project closed (duration: 406 ms)
+2012-07-17 15:26:53 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2012-07-17 15:26:53 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the database
+2012-07-17 15:26:53 [com.wakanda-software.Test.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-17 15:26:53 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-07-17 15:26:53 [com.wakanda-software.Test] INFO - Solution closed (duration: 1219 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test] INFO - Opening the solution
+2012-07-17 15:27:27 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2012-07-17 15:27:27 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 59 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the project
+2012-07-17 15:27:27 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the database
+2012-07-17 15:27:27 [com.wakanda-software.Test.DeleteSelection] INFO - Database opened (duration: 6 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test.DeleteSelection] INFO - Project opened (duration: 16 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2012-07-17 15:27:27 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the database
+2012-07-17 15:27:27 [com.wakanda-software.Test.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test] INFO - Solution opened (duration: 111 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test] INFO - Starting the solution
+2012-07-17 15:27:27 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the project
+2012-07-17 15:27:27 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the HTTP server
+2012-07-17 15:27:27 [com.wakanda-software.Test.DeleteSelection] INFO - HTTP server started (duration: 21 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test.DeleteSelection] INFO - Project started (duration: 61 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2012-07-17 15:27:27 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2012-07-17 15:27:27 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 54 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test.DeleteSelection] INFO - Executing the bootstrap(s)
+2012-07-17 15:27:27 [com.wakanda-software.Test.DeleteSelection] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-17 15:27:27 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-17 15:27:27 [com.wakanda-software.Test] INFO - Solution started (duration: 130 ms)
+2012-07-17 15:28:32 [com.wakanda-software.Test] INFO - Stopping the solution
+2012-07-17 15:28:32 [com.wakanda-software.Test.DeleteSelection] INFO - Stopping the project
+2012-07-17 15:28:34 [com.wakanda-software.Test.DeleteSelection] INFO - Project stopped (duration: 1049 ms)
+2012-07-17 15:28:34 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2012-07-17 15:28:36 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-07-17 15:28:36 [com.wakanda-software.Test] INFO - Solution stopped (duration: 3101 ms)
+2012-07-17 15:28:36 [com.wakanda-software.Test] INFO - Closing the solution
+2012-07-17 15:28:36 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the project
+2012-07-17 15:28:36 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the database
+2012-07-17 15:28:36 [com.wakanda-software.Test.DeleteSelection] INFO - Database closed (duration: 406 ms)
+2012-07-17 15:28:36 [com.wakanda-software.Test.DeleteSelection] INFO - Project closed (duration: 408 ms)
+2012-07-17 15:28:36 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2012-07-17 15:28:36 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the database
+2012-07-17 15:28:36 [com.wakanda-software.Test.ServerAdmin] INFO - Database closed (duration: 403 ms)
+2012-07-17 15:28:36 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-07-17 15:28:37 [com.wakanda-software.Test] INFO - Solution closed (duration: 1220 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test] INFO - Opening the solution
+2012-07-17 15:45:54 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2012-07-17 15:45:54 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 85 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the project
+2012-07-17 15:45:54 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the database
+2012-07-17 15:45:54 [com.wakanda-software.Test.DeleteSelection] INFO - Database opened (duration: 26 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test.DeleteSelection] INFO - Project opened (duration: 39 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2012-07-17 15:45:54 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the database
+2012-07-17 15:45:54 [com.wakanda-software.Test.ServerAdmin] INFO - Database opened (duration: 18 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 43 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test] INFO - Solution opened (duration: 196 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test] INFO - Starting the solution
+2012-07-17 15:45:54 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the project
+2012-07-17 15:45:54 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the HTTP server
+2012-07-17 15:45:54 [com.wakanda-software.Test.DeleteSelection] INFO - HTTP server started (duration: 21 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test.DeleteSelection] INFO - Project started (duration: 61 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2012-07-17 15:45:54 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2012-07-17 15:45:54 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test.DeleteSelection] INFO - Executing the bootstrap(s)
+2012-07-17 15:45:54 [com.wakanda-software.Test.DeleteSelection] INFO - Bootstrap(s) executed (duration: 12 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-17 15:45:54 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 38 ms)
+2012-07-17 15:45:54 [com.wakanda-software.Test] INFO - Solution started (duration: 169 ms)
+2012-07-17 15:48:45 [com.wakanda-software.Test] INFO - Stopping the solution
+2012-07-17 15:48:45 [com.wakanda-software.Test.DeleteSelection] INFO - Stopping the project
+2012-07-17 15:48:46 [com.wakanda-software.Test.DeleteSelection] INFO - Project stopped (duration: 1047 ms)
+2012-07-17 15:48:46 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2012-07-17 15:48:48 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2051 ms)
+2012-07-17 15:48:48 [com.wakanda-software.Test] INFO - Solution stopped (duration: 3099 ms)
+2012-07-17 15:48:48 [com.wakanda-software.Test] INFO - Closing the solution
+2012-07-17 15:48:48 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the project
+2012-07-17 15:48:48 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the database
+2012-07-17 15:48:49 [com.wakanda-software.Test.DeleteSelection] INFO - Database closed (duration: 406 ms)
+2012-07-17 15:48:49 [com.wakanda-software.Test.DeleteSelection] INFO - Project closed (duration: 406 ms)
+2012-07-17 15:48:49 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2012-07-17 15:48:49 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the database
+2012-07-17 15:48:49 [com.wakanda-software.Test.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-07-17 15:48:49 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-07-17 15:48:49 [com.wakanda-software.Test] INFO - Solution closed (duration: 1220 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test] INFO - Opening the solution
+2012-07-19 07:20:12 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2012-07-19 07:20:12 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 11 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the project
+2012-07-19 07:20:12 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the database
+2012-07-19 07:20:12 [com.wakanda-software.Test.DeleteSelection] INFO - Database opened (duration: 5 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test.DeleteSelection] INFO - Project opened (duration: 14 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2012-07-19 07:20:12 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the database
+2012-07-19 07:20:12 [com.wakanda-software.Test.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test] INFO - Solution opened (duration: 58 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test] INFO - Starting the solution
+2012-07-19 07:20:12 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the project
+2012-07-19 07:20:12 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the HTTP server
+2012-07-19 07:20:12 [com.wakanda-software.Test.DeleteSelection] INFO - HTTP server started (duration: 26 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test.DeleteSelection] INFO - Project started (duration: 66 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2012-07-19 07:20:12 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2012-07-19 07:20:12 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 28 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 62 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test.DeleteSelection] INFO - Executing the bootstrap(s)
+2012-07-19 07:20:12 [com.wakanda-software.Test.DeleteSelection] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-19 07:20:12 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-19 07:20:12 [com.wakanda-software.Test] INFO - Solution started (duration: 143 ms)
+2012-07-19 07:21:23 [com.wakanda-software.Test] INFO - Stopping the solution
+2012-07-19 07:21:23 [com.wakanda-software.Test.DeleteSelection] INFO - Stopping the project
+2012-07-19 07:21:24 [com.wakanda-software.Test.DeleteSelection] INFO - Project stopped (duration: 1048 ms)
+2012-07-19 07:21:24 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2012-07-19 07:21:26 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-07-19 07:21:26 [com.wakanda-software.Test] INFO - Solution stopped (duration: 3098 ms)
+2012-07-19 07:21:26 [com.wakanda-software.Test] INFO - Closing the solution
+2012-07-19 07:21:26 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the project
+2012-07-19 07:21:26 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the database
+2012-07-19 07:21:26 [com.wakanda-software.Test.DeleteSelection] INFO - Database closed (duration: 406 ms)
+2012-07-19 07:21:26 [com.wakanda-software.Test.DeleteSelection] INFO - Project closed (duration: 408 ms)
+2012-07-19 07:21:26 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2012-07-19 07:21:26 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the database
+2012-07-19 07:21:27 [com.wakanda-software.Test.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-19 07:21:27 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-07-19 07:21:27 [com.wakanda-software.Test] INFO - Solution closed (duration: 1221 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test] INFO - Opening the solution
+2012-07-19 07:24:40 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2012-07-19 07:24:40 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 14 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the project
+2012-07-19 07:24:40 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the database
+2012-07-19 07:24:40 [com.wakanda-software.Test.DeleteSelection] INFO - Database opened (duration: 5 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test.DeleteSelection] INFO - Project opened (duration: 14 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2012-07-19 07:24:40 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the database
+2012-07-19 07:24:40 [com.wakanda-software.Test.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test] INFO - Solution opened (duration: 61 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test] INFO - Starting the solution
+2012-07-19 07:24:40 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the project
+2012-07-19 07:24:40 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the HTTP server
+2012-07-19 07:24:40 [com.wakanda-software.Test.DeleteSelection] INFO - HTTP server started (duration: 20 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test.DeleteSelection] INFO - Project started (duration: 59 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2012-07-19 07:24:40 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2012-07-19 07:24:40 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 54 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test.DeleteSelection] INFO - Executing the bootstrap(s)
+2012-07-19 07:24:40 [com.wakanda-software.Test.DeleteSelection] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-19 07:24:40 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-19 07:24:40 [com.wakanda-software.Test] INFO - Solution started (duration: 127 ms)
+2012-07-19 08:21:02 [com.wakanda-software.Test] INFO - Stopping the solution
+2012-07-19 08:21:02 [com.wakanda-software.Test.DeleteSelection] INFO - Stopping the project
+2012-07-19 08:21:04 [com.wakanda-software.Test.DeleteSelection] INFO - Project stopped (duration: 1071 ms)
+2012-07-19 08:21:04 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2012-07-19 08:21:06 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2074 ms)
+2012-07-19 08:21:06 [com.wakanda-software.Test] INFO - Solution stopped (duration: 3145 ms)
+2012-07-19 08:21:06 [com.wakanda-software.Test] INFO - Closing the solution
+2012-07-19 08:21:06 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the project
+2012-07-19 08:21:06 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the database
+2012-07-19 08:21:06 [com.wakanda-software.Test.DeleteSelection] INFO - Database closed (duration: 405 ms)
+2012-07-19 08:21:06 [com.wakanda-software.Test.DeleteSelection] INFO - Project closed (duration: 405 ms)
+2012-07-19 08:21:06 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2012-07-19 08:21:06 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the database
+2012-07-19 08:21:06 [com.wakanda-software.Test.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-07-19 08:21:06 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-07-19 08:21:07 [com.wakanda-software.Test] INFO - Solution closed (duration: 1218 ms)
+2012-07-23 07:20:45 [com.wakanda-software.Test] INFO - Opening the solution
+2012-07-23 07:20:45 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2012-07-23 07:20:45 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 354 ms)
+2012-07-23 07:20:45 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the project
+2012-07-23 07:20:46 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the database
+2012-07-23 07:20:46 [com.wakanda-software.Test.DeleteSelection] INFO - Database opened (duration: 33 ms)
+2012-07-23 07:20:46 [com.wakanda-software.Test.DeleteSelection] INFO - Project opened (duration: 145 ms)
+2012-07-23 07:20:46 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2012-07-23 07:20:46 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the database
+2012-07-23 07:20:46 [com.wakanda-software.Test.ServerAdmin] INFO - Database opened (duration: 37 ms)
+2012-07-23 07:20:46 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 53 ms)
+2012-07-23 07:20:46 [com.wakanda-software.Test] INFO - Solution opened (duration: 632 ms)
+2012-07-23 07:20:46 [com.wakanda-software.Test] INFO - Starting the solution
+2012-07-23 07:20:46 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the project
+2012-07-23 07:20:46 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the HTTP server
+2012-07-23 07:20:46 [com.wakanda-software.Test.DeleteSelection] INFO - HTTP server started (duration: 44 ms)
+2012-07-23 07:20:46 [com.wakanda-software.Test.DeleteSelection] INFO - Project started (duration: 232 ms)
+2012-07-23 07:20:46 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2012-07-23 07:20:46 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2012-07-23 07:20:46 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-23 07:20:46 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-07-23 07:20:46 [com.wakanda-software.Test.DeleteSelection] INFO - Executing the bootstrap(s)
+2012-07-23 07:20:46 [com.wakanda-software.Test.DeleteSelection] INFO - Bootstrap(s) executed (duration: 54 ms)
+2012-07-23 07:20:46 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-23 07:20:46 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 24 ms)
+2012-07-23 07:20:46 [com.wakanda-software.Test] INFO - Solution started (duration: 368 ms)
+2012-07-23 08:45:01 [com.wakanda-software.Test] INFO - Stopping the solution
+2012-07-23 08:45:01 [com.wakanda-software.Test.DeleteSelection] INFO - Stopping the project
+2012-07-23 08:45:02 [com.wakanda-software.Test.DeleteSelection] INFO - Project stopped (duration: 1136 ms)
+2012-07-23 08:45:02 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2012-07-23 08:45:04 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2051 ms)
+2012-07-23 08:45:04 [com.wakanda-software.Test] INFO - Solution stopped (duration: 3188 ms)
+2012-07-23 08:45:04 [com.wakanda-software.Test] INFO - Closing the solution
+2012-07-23 08:45:04 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the project
+2012-07-23 08:45:04 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the database
+2012-07-23 08:45:04 [com.wakanda-software.Test.DeleteSelection] INFO - Database closed (duration: 406 ms)
+2012-07-23 08:45:04 [com.wakanda-software.Test.DeleteSelection] INFO - Project closed (duration: 422 ms)
+2012-07-23 08:45:04 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2012-07-23 08:45:04 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the database
+2012-07-23 08:45:05 [com.wakanda-software.Test.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-23 08:45:05 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 428 ms)
+2012-07-23 08:45:05 [com.wakanda-software.Test] INFO - Solution closed (duration: 1258 ms)
+2012-07-23 08:52:17 [com.wakanda-software.Test] INFO - Opening the solution
+2012-07-23 08:52:17 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2012-07-23 08:52:18 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 371 ms)
+2012-07-23 08:52:18 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the project
+2012-07-23 08:52:18 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the database
+2012-07-23 08:52:18 [com.wakanda-software.Test.DeleteSelection] INFO - Database opened (duration: 41 ms)
+2012-07-23 08:52:18 [com.wakanda-software.Test.DeleteSelection] INFO - Project opened (duration: 99 ms)
+2012-07-23 08:52:18 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2012-07-23 08:52:18 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the database
+2012-07-23 08:52:18 [com.wakanda-software.Test.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-07-23 08:52:18 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 12 ms)
+2012-07-23 08:52:18 [com.wakanda-software.Test] INFO - Solution opened (duration: 542 ms)
+2012-07-23 08:52:18 [com.wakanda-software.Test] INFO - Starting the solution
+2012-07-23 08:52:18 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the project
+2012-07-23 08:52:18 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the HTTP server
+2012-07-23 08:52:18 [com.wakanda-software.Test.DeleteSelection] INFO - HTTP server started (duration: 27 ms)
+2012-07-23 08:52:18 [com.wakanda-software.Test.DeleteSelection] INFO - Project started (duration: 161 ms)
+2012-07-23 08:52:18 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2012-07-23 08:52:18 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2012-07-23 08:52:18 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-07-23 08:52:18 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 59 ms)
+2012-07-23 08:52:18 [com.wakanda-software.Test.DeleteSelection] INFO - Executing the bootstrap(s)
+2012-07-23 08:52:18 [com.wakanda-software.Test.DeleteSelection] INFO - Bootstrap(s) executed (duration: 285 ms)
+2012-07-23 08:52:18 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-23 08:52:19 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 48 ms)
+2012-07-23 08:52:19 [com.wakanda-software.Test] INFO - Solution started (duration: 555 ms)
+2012-07-23 08:53:15 [com.wakanda-software.Test] INFO - Stopping the solution
+2012-07-23 08:53:15 [com.wakanda-software.Test.DeleteSelection] INFO - Stopping the project
+2012-07-23 08:53:16 [com.wakanda-software.Test.DeleteSelection] INFO - Project stopped (duration: 1047 ms)
+2012-07-23 08:53:16 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2012-07-23 08:53:18 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2046 ms)
+2012-07-23 08:53:18 [com.wakanda-software.Test] INFO - Solution stopped (duration: 3094 ms)
+2012-07-23 08:53:18 [com.wakanda-software.Test] INFO - Closing the solution
+2012-07-23 08:53:18 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the project
+2012-07-23 08:53:18 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the database
+2012-07-23 08:53:18 [com.wakanda-software.Test.DeleteSelection] INFO - Database closed (duration: 405 ms)
+2012-07-23 08:53:18 [com.wakanda-software.Test.DeleteSelection] INFO - Project closed (duration: 406 ms)
+2012-07-23 08:53:18 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2012-07-23 08:53:18 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the database
+2012-07-23 08:53:19 [com.wakanda-software.Test.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-07-23 08:53:19 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-07-23 08:53:19 [com.wakanda-software.Test] INFO - Solution closed (duration: 1218 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test] INFO - Opening the solution
+2012-07-23 08:53:41 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2012-07-23 08:53:41 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 12 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the project
+2012-07-23 08:53:41 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the database
+2012-07-23 08:53:41 [com.wakanda-software.Test.DeleteSelection] INFO - Database opened (duration: 5 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test.DeleteSelection] INFO - Project opened (duration: 14 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2012-07-23 08:53:41 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the database
+2012-07-23 08:53:41 [com.wakanda-software.Test.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test] INFO - Solution opened (duration: 63 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test] INFO - Starting the solution
+2012-07-23 08:53:41 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the project
+2012-07-23 08:53:41 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the HTTP server
+2012-07-23 08:53:41 [com.wakanda-software.Test.DeleteSelection] INFO - HTTP server started (duration: 21 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test.DeleteSelection] INFO - Project started (duration: 58 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2012-07-23 08:53:41 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2012-07-23 08:53:41 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 25 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test.DeleteSelection] INFO - Executing the bootstrap(s)
+2012-07-23 08:53:41 [com.wakanda-software.Test.DeleteSelection] INFO - Bootstrap(s) executed (duration: 7 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-23 08:53:41 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-23 08:53:41 [com.wakanda-software.Test] INFO - Solution started (duration: 130 ms)
+2012-07-23 09:25:58 [com.wakanda-software.Test] INFO - Stopping the solution
+2012-07-23 09:25:58 [com.wakanda-software.Test.DeleteSelection] INFO - Stopping the project
+2012-07-23 09:25:59 [com.wakanda-software.Test.DeleteSelection] INFO - Project stopped (duration: 1070 ms)
+2012-07-23 09:25:59 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2012-07-23 09:26:01 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2045 ms)
+2012-07-23 09:26:01 [com.wakanda-software.Test] INFO - Solution stopped (duration: 3115 ms)
+2012-07-23 09:26:01 [com.wakanda-software.Test] INFO - Closing the solution
+2012-07-23 09:26:01 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the project
+2012-07-23 09:26:01 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the database
+2012-07-23 09:26:01 [com.wakanda-software.Test.DeleteSelection] INFO - Database closed (duration: 405 ms)
+2012-07-23 09:26:01 [com.wakanda-software.Test.DeleteSelection] INFO - Project closed (duration: 407 ms)
+2012-07-23 09:26:01 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2012-07-23 09:26:01 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the database
+2012-07-23 09:26:02 [com.wakanda-software.Test.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-23 09:26:02 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-07-23 09:26:02 [com.wakanda-software.Test] INFO - Solution closed (duration: 1276 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test] INFO - Opening the solution
+2012-07-23 09:26:09 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2012-07-23 09:26:09 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 85 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the project
+2012-07-23 09:26:09 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the database
+2012-07-23 09:26:09 [com.wakanda-software.Test.DeleteSelection] INFO - Database opened (duration: 6 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test.DeleteSelection] INFO - Project opened (duration: 16 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2012-07-23 09:26:09 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the database
+2012-07-23 09:26:09 [com.wakanda-software.Test.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test] INFO - Solution opened (duration: 139 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test] INFO - Starting the solution
+2012-07-23 09:26:09 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the project
+2012-07-23 09:26:09 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the HTTP server
+2012-07-23 09:26:09 [com.wakanda-software.Test.DeleteSelection] INFO - HTTP server started (duration: 37 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test.DeleteSelection] INFO - Project started (duration: 86 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2012-07-23 09:26:09 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2012-07-23 09:26:09 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 24 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 62 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test.DeleteSelection] INFO - Executing the bootstrap(s)
+2012-07-23 09:26:09 [com.wakanda-software.Test.DeleteSelection] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-23 09:26:09 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-07-23 09:26:09 [com.wakanda-software.Test] INFO - Solution started (duration: 163 ms)
+2012-07-23 09:55:44 [com.wakanda-software.Test] INFO - Stopping the solution
+2012-07-23 09:55:44 [com.wakanda-software.Test.DeleteSelection] INFO - Stopping the project
+2012-07-23 09:55:45 [com.wakanda-software.Test.DeleteSelection] INFO - Project stopped (duration: 1086 ms)
+2012-07-23 09:55:45 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2012-07-23 09:55:47 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2047 ms)
+2012-07-23 09:55:47 [com.wakanda-software.Test] INFO - Solution stopped (duration: 3134 ms)
+2012-07-23 09:55:47 [com.wakanda-software.Test] INFO - Closing the solution
+2012-07-23 09:55:47 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the project
+2012-07-23 09:55:47 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the database
+2012-07-23 09:55:47 [com.wakanda-software.Test.DeleteSelection] INFO - Database closed (duration: 406 ms)
+2012-07-23 09:55:47 [com.wakanda-software.Test.DeleteSelection] INFO - Project closed (duration: 424 ms)
+2012-07-23 09:55:47 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2012-07-23 09:55:47 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the database
+2012-07-23 09:55:48 [com.wakanda-software.Test.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-23 09:55:48 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 435 ms)
+2012-07-23 09:55:48 [com.wakanda-software.Test] INFO - Solution closed (duration: 1266 ms)
+2012-07-30 17:25:38 [com.wakanda-software.Test] INFO - Opening the solution
+2012-07-30 17:25:38 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2012-07-30 17:25:38 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 27 ms)
+2012-07-30 17:25:38 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the project
+2012-07-30 17:25:38 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the database
+2012-07-30 17:25:38 [com.wakanda-software.Test.DeleteSelection] INFO - Database opened (duration: 19 ms)
+2012-07-30 17:25:38 [com.wakanda-software.Test.DeleteSelection] INFO - Project opened (duration: 43 ms)
+2012-07-30 17:25:39 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2012-07-30 17:25:39 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the database
+2012-07-30 17:25:39 [com.wakanda-software.Test.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-30 17:25:39 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-30 17:25:39 [com.wakanda-software.Test] INFO - Solution opened (duration: 164 ms)
+2012-07-30 17:25:39 [com.wakanda-software.Test] INFO - Starting the solution
+2012-07-30 17:25:39 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the project
+2012-07-30 17:25:39 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the HTTP server
+2012-07-30 17:25:39 [com.wakanda-software.Test.DeleteSelection] INFO - HTTP server started (duration: 21 ms)
+2012-07-30 17:25:39 [com.wakanda-software.Test.DeleteSelection] INFO - Project started (duration: 60 ms)
+2012-07-30 17:25:39 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2012-07-30 17:25:39 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2012-07-30 17:25:39 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-30 17:25:39 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-07-30 17:25:39 [com.wakanda-software.Test.DeleteSelection] INFO - Executing the bootstrap(s)
+2012-07-30 17:25:39 [com.wakanda-software.Test.DeleteSelection] INFO - Bootstrap(s) executed (duration: 28 ms)
+2012-07-30 17:25:39 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-30 17:25:39 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-30 17:25:39 [com.wakanda-software.Test] INFO - Solution started (duration: 152 ms)
+2012-07-30 17:34:41 [com.wakanda-software.Test] INFO - Stopping the solution
+2012-07-30 17:34:41 [com.wakanda-software.Test.DeleteSelection] INFO - Stopping the project
+2012-07-30 17:34:42 [com.wakanda-software.Test.DeleteSelection] INFO - Project stopped (duration: 1047 ms)
+2012-07-30 17:34:42 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2012-07-30 17:34:44 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-07-30 17:34:44 [com.wakanda-software.Test] INFO - Solution stopped (duration: 3099 ms)
+2012-07-30 17:34:44 [com.wakanda-software.Test] INFO - Closing the solution
+2012-07-30 17:34:44 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the project
+2012-07-30 17:34:44 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the database
+2012-07-30 17:34:44 [com.wakanda-software.Test.DeleteSelection] INFO - Database closed (duration: 406 ms)
+2012-07-30 17:34:44 [com.wakanda-software.Test.DeleteSelection] INFO - Project closed (duration: 408 ms)
+2012-07-30 17:34:44 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2012-07-30 17:34:44 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the database
+2012-07-30 17:34:45 [com.wakanda-software.Test.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-07-30 17:34:45 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-07-30 17:34:45 [com.wakanda-software.Test] INFO - Solution closed (duration: 1223 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test] INFO - Opening the solution
+2012-08-03 10:35:31 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2012-08-03 10:35:31 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 16 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the project
+2012-08-03 10:35:31 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the database
+2012-08-03 10:35:31 [com.wakanda-software.Test.DeleteSelection] INFO - Database opened (duration: 19 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test.DeleteSelection] INFO - Project opened (duration: 38 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2012-08-03 10:35:31 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the database
+2012-08-03 10:35:31 [com.wakanda-software.Test.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test] INFO - Solution opened (duration: 127 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test] INFO - Starting the solution
+2012-08-03 10:35:31 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the project
+2012-08-03 10:35:31 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the HTTP server
+2012-08-03 10:35:31 [com.wakanda-software.Test.DeleteSelection] INFO - HTTP server started (duration: 22 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test.DeleteSelection] INFO - Project started (duration: 66 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2012-08-03 10:35:31 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2012-08-03 10:35:31 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 55 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test.DeleteSelection] INFO - Executing the bootstrap(s)
+2012-08-03 10:35:31 [com.wakanda-software.Test.DeleteSelection] INFO - Bootstrap(s) executed (duration: 64 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-03 10:35:31 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-08-03 10:35:31 [com.wakanda-software.Test] INFO - Solution started (duration: 193 ms)
+2012-08-03 12:09:32 [com.wakanda-software.Test] INFO - Stopping the solution
+2012-08-03 12:09:32 [com.wakanda-software.Test.DeleteSelection] INFO - Stopping the project
+2012-08-03 12:09:33 [com.wakanda-software.Test.DeleteSelection] INFO - Project stopped (duration: 1046 ms)
+2012-08-03 12:09:33 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2012-08-03 12:09:35 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2046 ms)
+2012-08-03 12:09:35 [com.wakanda-software.Test] INFO - Solution stopped (duration: 3092 ms)
+2012-08-03 12:09:35 [com.wakanda-software.Test] INFO - Closing the solution
+2012-08-03 12:09:35 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the project
+2012-08-03 12:09:35 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the database
+2012-08-03 12:09:36 [com.wakanda-software.Test.DeleteSelection] INFO - Database closed (duration: 405 ms)
+2012-08-03 12:09:36 [com.wakanda-software.Test.DeleteSelection] INFO - Project closed (duration: 406 ms)
+2012-08-03 12:09:36 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2012-08-03 12:09:36 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the database
+2012-08-03 12:09:36 [com.wakanda-software.Test.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-03 12:09:36 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-08-03 12:09:36 [com.wakanda-software.Test] INFO - Solution closed (duration: 1218 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test] INFO - Opening the solution
+2012-08-03 12:09:52 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2012-08-03 12:09:52 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 17 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the project
+2012-08-03 12:09:52 [com.wakanda-software.Test.DeleteSelection] INFO - Opening the database
+2012-08-03 12:09:52 [com.wakanda-software.Test.DeleteSelection] INFO - Database opened (duration: 6 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test.DeleteSelection] INFO - Project opened (duration: 37 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2012-08-03 12:09:52 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the database
+2012-08-03 12:09:52 [com.wakanda-software.Test.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test] INFO - Solution opened (duration: 115 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test] INFO - Starting the solution
+2012-08-03 12:09:52 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the project
+2012-08-03 12:09:52 [com.wakanda-software.Test.DeleteSelection] INFO - Starting the HTTP server
+2012-08-03 12:09:52 [com.wakanda-software.Test.DeleteSelection] INFO - HTTP server started (duration: 24 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test.DeleteSelection] INFO - Project started (duration: 66 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2012-08-03 12:09:52 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2012-08-03 12:09:52 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 25 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 59 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test.DeleteSelection] INFO - Executing the bootstrap(s)
+2012-08-03 12:09:52 [com.wakanda-software.Test.DeleteSelection] INFO - Bootstrap(s) executed (duration: 7 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-03 12:09:52 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 31 ms)
+2012-08-03 12:09:52 [com.wakanda-software.Test] INFO - Solution started (duration: 166 ms)
+2012-08-03 12:12:57 [com.wakanda-software.Test] INFO - Stopping the solution
+2012-08-03 12:12:57 [com.wakanda-software.Test.DeleteSelection] INFO - Stopping the project
+2012-08-03 12:12:58 [com.wakanda-software.Test.DeleteSelection] INFO - Project stopped (duration: 1048 ms)
+2012-08-03 12:12:58 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2012-08-03 12:13:00 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2051 ms)
+2012-08-03 12:13:00 [com.wakanda-software.Test] INFO - Solution stopped (duration: 3099 ms)
+2012-08-03 12:13:00 [com.wakanda-software.Test] INFO - Closing the solution
+2012-08-03 12:13:00 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the project
+2012-08-03 12:13:00 [com.wakanda-software.Test.DeleteSelection] INFO - Closing the database
+2012-08-03 12:13:00 [com.wakanda-software.Test.DeleteSelection] INFO - Database closed (duration: 406 ms)
+2012-08-03 12:13:00 [com.wakanda-software.Test.DeleteSelection] INFO - Project closed (duration: 408 ms)
+2012-08-03 12:13:00 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2012-08-03 12:13:00 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the database
+2012-08-03 12:13:00 [com.wakanda-software.Test.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-03 12:13:00 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-08-03 12:13:01 [com.wakanda-software.Test] INFO - Solution closed (duration: 1222 ms)
